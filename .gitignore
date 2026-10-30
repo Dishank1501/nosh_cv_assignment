@@ -1,0 +1,62 @@
+# Python environments and generated interpreter/test caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Temporary/editor/OS files; keep datasets, models, and experiment outputs visible
+*.tmp
+*.swp
+.DS_Store
+
+# Model checkpoints
+models/*.pth
+models/*.pt
+models/*.onnx
+
+# Generated caches
+*.log
+*.bak
+*.pyc
+
+# Temporary outputs
+outputs/**/temp/
+outputs/**/cache/
+
+# IDE settings
+.vscode/
+
+# SAM model checkpoints
+models/*.pth
+models/*.pt
+models/*.onnx
+
+# Intermediate experiment outputs
+outputs/e1_canny_proposals/
+outputs/e1_combined_proposals/
+outputs/e1_mser_proposals/
+outputs/e2_ranking_*/
+outputs/e3_canny/
+outputs/e3_combined/
+outputs/e3_combined_grabcut/
+outputs/e3_mser/
+outputs/trial5_grabcut_fallback/
+outputs/trial6_ellipse_refinement/
+outputs/trial7_lab_guided_grabcut/
+outputs/trial8_conservative_refinement/
+outputs/trial9_multi_candidate/
+outputs/trial10_conservative_candidates/
+outputs/lab_illumination_trial1/
+outputs/e0_baseline_reproduction/
+outputs/e5_final_evaluation/masks/
+outputs/e5_final_evaluation/candidates.csv
+
+# Generated outputs
+outputs/
+
+# Dataset and input video
+dataset/
+data/assignment_video.mp4

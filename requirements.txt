@@ -1,0 +1,7 @@
+numpy==2.2.6
+opencv-python==5.0.0.93
+pandas==2.3.3
+scipy==1.15.3
+
+# Optional: only needed to regenerate SAM pseudo-labels with step18_batch_sam.py.
+# Install a platform-appropriate PyTorch build, then install segment-anything.
