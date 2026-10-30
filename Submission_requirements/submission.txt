@@ -1,0 +1,10 @@
+NOSH ROBOTICS — COMPUTER VISION ASSIGNMENT Submission Links
+
+Candidate: Dishank Patel Assignment: Egg Segmentation and Individual
+Object Tracking
+
+1.  GitHub Repository https://github.com/Dishank1501/nosh_cv_assignment.git
+
+2.  Technical Report (PDF) https://drive.google.com/file/d/1bJYp0P8eHj2eopB3HYFX_oQiwPo2ZSY0/view?usp=drive_link
+
+3.  Tracking Demo Video https://drive.google.com/drive/folders/1I8GJ5R1x7AgABJft_6Ubcz7Wn0rSoRn2?usp=drive_link
